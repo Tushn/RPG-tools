@@ -1,0 +1,16 @@
+@charset "UTF-8";
+.controllers{
+	display:block;
+}
+#rollers{
+	width: 30vw;
+	background-color: #ccc;
+	float: left;
+}
+#rollall{
+	clear: both;
+	/* display: block; */
+}
+input[type="text"] {
+	width: 20px;
+}

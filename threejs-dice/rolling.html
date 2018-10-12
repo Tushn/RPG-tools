@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
 	<title>Dice roller</title>
 	
-    <script src="jquery-3.3.1.min.js"></script>
-    <script src="../node_modules/three/build/three.js"></script>
-    <script src="../node_modules/cannon/build/cannon.js"></script>
-    <script src="../node_modules/three/examples/js/controls/OrbitControls.js"></script>
-    <script src="../node_modules/three/examples/js/libs/stats.min.js"></script>
+    <script src="./lib/jquery-3.3.1.min.js"></script>
+    <script src="./node_modules/three/build/three.js"></script>
+    <script src="./node_modules/cannon/build/cannon.js"></script>
+    <script src="./node_modules/three/examples/js/controls/OrbitControls.js"></script>
+    <script src="./node_modules/three/examples/js/libs/stats.min.js"></script>
 
-    <script src="../lib/dice.js"></script>
+    <script src="./lib/dice.js"></script>
 	<script>
 		window.onload = function(){
 			rollall.onclick = function(){
@@ -37,27 +37,11 @@
 		 
 	</script>
 	<style>
-		.controllers{
-			display:block;
-		}
-		#rollers{
-			width: 30vw;
-			background-color: #ccc;
-			float: left;
-		}
-		#rollall{
-			clear: both;
-			/* display: block; */
-		}
-		input[type="text"] {
-			width: 20px;
-		}
 	</style>
-	
+	<link rel="stylesheet" href="css/rolling.css">
 </head>
 <body>
 <h1> Dice roller</h1>
-
 <div class="controllers">
 	<button id="rollall">Roll all</button> <button id="reset_dice">Reset</button>
 </div>
@@ -71,6 +55,7 @@
 </div>
 <!-- <div id="ThreeJS" style="position: ; left:0px; top:0px"></div> -->
 <div id="ThreeJS" style=""></div>
-<script src="./threejs-dice/lib/dice_manager.js"></script>
+
+<script src="./node_modules/threejs-dice/lib/dice_manager.js"></script>
 </body>
 </html>
