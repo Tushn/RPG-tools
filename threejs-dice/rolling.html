@@ -12,6 +12,7 @@
 
     <script src="./lib/dice.js"></script>
 	<script>
+	var chureba
 		window.onload = function(){
 			rollall.onclick = function(){
 				diceThrow();
@@ -29,11 +30,22 @@
 		 $(document).ready(function(){
 			//$(".dice_control")
 			$(".plus").click(function(){
-				$(this).parent().children().get(1).value++;
+				if($(this).parent().children().get(1).value < 7)
+					$(this).parent().children().get(1).value++;
+				else
+					$(this).parent().children().get(1).value = 6;
 			});
 			$(".minus").click(function(){
 				if($(this).parent().children().get(1).value > 0)
 					$(this).parent().children().get(1).value--;
+				else
+					$(this).parent().children().get(1).value = 0;
+			});
+			$(".qt_dice").keyup(function(){
+				if(Number(this.value)<0)
+					this.value = 0;
+				else if(Number(this.value)>6)
+					this.value = 6;
 			});
 			
 		 });
@@ -49,12 +61,12 @@
 	<button id="rollall">Roll all</button> <button id="read_values">Read values</button> <button id="reset_dice">Reset</button>
 </div>
 <div id="rollers">
-	<div class="dice_control">d4<button class="minus">-</button><input type="text" value="0"><button class="plus">+</button><span class="dice_result"></span></div>
-	<div class="dice_control">d6<button class="minus">-</button><input type="text" value="0"><button class="plus">+</button><span class="dice_result"></span></div>
-	<div class="dice_control">d8<button class="minus">-</button><input type="text" value="0"><button class="plus">+</button><span class="dice_result"></span></div>
-	<div class="dice_control">d10<button class="minus">-</button><input type="text" value="0"><button class="plus">+</button><span class="dice_result"></span></div>
-	<div class="dice_control">d12<button class="minus">-</button><input type="text" value="0"><button class="plus">+</button><span class="dice_result"></span></div>
-	<div class="dice_control">d20<button class="minus">-</button><input type="text" value="0"><button class="plus">+</button><span class="dice_result"></span></div>
+	<div class="dice_control">d4<button class="minus">-</button><input type="text" value="0" class="qt_dice"><button class="plus">+</button><span class="dice_result"></span></div>
+	<div class="dice_control">d6<button class="minus">-</button><input type="text" value="0" class="qt_dice"><button class="plus">+</button><span class="dice_result"></span></div>
+	<div class="dice_control">d8<button class="minus">-</button><input type="text" value="0" class="qt_dice"><button class="plus">+</button><span class="dice_result"></span></div>
+	<div class="dice_control">d10<button class="minus">-</button><input type="text" value="0" class="qt_dice"><button class="plus">+</button><span class="dice_result"></span></div>
+	<div class="dice_control">d12<button class="minus">-</button><input type="text" value="0" class="qt_dice"><button class="plus">+</button><span class="dice_result"></span></div>
+	<div class="dice_control">d20<button class="minus">-</button><input type="text" value="0" class="qt_dice"><button class="plus">+</button><span class="dice_result"></span></div>
 </div>
 <!-- <div id="ThreeJS" style="position: ; left:0px; top:0px"></div> -->
 <div id="ThreeJS" style=""></div>
