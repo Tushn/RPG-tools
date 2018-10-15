@@ -7,7 +7,9 @@ Dice system is made above ThreeJS-dice, this version has compatibility with old 
 https://www.npmjs.com/package/threejs-dice
 
 Test this interface in:
-https://tushn.github.io/RPG-tools/threejs-dice/node_modules/rolling.html
+https://tushn.github.io/RPG-tools/threejs-dice/rolling.html
+Dice require a minimun 0 (zero) and maximun 6 (six) per dice faces.
+
 (Bug fixes and improvements are required, if you have a sugestion you can open a "**Issue**")
 
 ## Deck of cards
