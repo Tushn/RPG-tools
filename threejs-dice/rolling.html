@@ -5,11 +5,10 @@
 	<title>Dice roller</title>
 	
     <script src="./lib/jquery-3.3.1.min.js"></script>
-    <script src="./node_modules/three/build/three.js"></script>
-    <script src="./node_modules/cannon/build/cannon.js"></script>
-    <script src="./node_modules/three/examples/js/controls/OrbitControls.js"></script>
-    <script src="./node_modules/three/examples/js/libs/stats.min.js"></script>
-
+    <script src="./lib/three.min.js"></script>
+    <script src="./lib/cannon.min.js"></script>
+    <script src="./lib/OrbitControls.js"></script>
+    <script src="./lib/stats.min.js"></script>
     <script src="./lib/dice.js"></script>
 	<script>
 	var chureba
@@ -30,7 +29,7 @@
 		 $(document).ready(function(){
 			//$(".dice_control")
 			$(".plus").click(function(){
-				if($(this).parent().children().get(1).value < 7)
+				if($(this).parent().children().get(1).value < 6)
 					$(this).parent().children().get(1).value++;
 				else
 					$(this).parent().children().get(1).value = 6;
@@ -71,6 +70,7 @@
 <!-- <div id="ThreeJS" style="position: ; left:0px; top:0px"></div> -->
 <div id="ThreeJS" style=""></div>
 
-<script src="./node_modules/threejs-dice/lib/dice_manager.js"></script>
+<!-- <script src="./node_modules/threejs-dice/lib/dice_manager.js"></script> -->
+<script src="./lib/dice_manager.js"></script>
 </body>
 </html>
