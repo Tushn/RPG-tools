@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eventos>
+	<!-- Conversa com os poderosos guardiões -->
+	<teste id="0">
+		<caracteristica>0</caracteristica>
+		<dificuldade>21</dificuldade>
+		<trueid>18</trueid>
+		<falseid>16</falseid>
+	</teste>
+	
+	<teste id="1">
+		<caracteristica>0</caracteristica>
+		<dificuldade>16</dificuldade>
+		<trueid>20</trueid>
+		<falseid>16</falseid>
+	</teste>
+</eventos>

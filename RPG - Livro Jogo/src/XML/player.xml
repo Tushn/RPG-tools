@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<guj>  
+    <player id="0">
+        <nome>Tull</nome>  
+        <habilidade>12</habilidade>
+        <energia>18</energia>
+        <sorte>9</sorte>
+        <magia>0</magia>
+        <descricao>Pedreiro</descricao>
+        <raca>0</raca><!--Humano-->
+        <kit>0</kit><!--Plebeu-->
+		<minpoder>0</minpoder>
+		<maxpoder>0</maxpoder>
+    </player>  
+    
+    <player id="1">  
+        <nome>Tull</nome>  
+        <habilidade>13</habilidade>
+        <energia>24</energia>
+        <sorte>12</sorte>
+        <magia>0</magia>
+        <descricao>UM morto que anda</descricao>
+        <raca>1</raca><!--MortoVivo-->
+        <kit>1</kit><!--Guerreiro-->
+		<minpoder>0</minpoder>
+		<maxpoder>0</maxpoder>
+    </player>
+    
+    <player id="2">
+        <nome>Tull</nome>  
+        <habilidade>12</habilidade>
+        <energia>19</energia>
+        <sorte>10</sorte>
+        <magia>5</magia>
+        <descricao>Mago amaldiçoado</descricao>
+        <raca>0</raca><!--Humano-->
+        <kit>2</kit><!--Mago-->
+		<minpoder>0</minpoder>
+		<maxpoder>1</maxpoder>
+    </player>  
+    
+    <player id="3">
+        <nome>Tull</nome>  
+        <habilidade>12</habilidade>
+        <energia>19</energia>
+        <sorte>10</sorte>
+        <magia>5</magia>
+        <descricao>Clerigo</descricao>
+        <raca>0</raca><!--Humano-->
+        <kit>3</kit><!--Clerigo-->
+		<minpoder>2</minpoder>
+		<maxpoder>3</maxpoder>
+    </player>  
+</guj> 

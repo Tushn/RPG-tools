@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <encontro id="0">
+        <idficha>-1</idficha>
+        <num>-1</num>
+        <idoutro>-1</idoutro>
+    </encontro>
+    
+    <encontro id="1">
+        <idficha>4</idficha>
+        <num>3</num>
+        <idoutro>2</idoutro>
+    </encontro>
+    
+    <encontro id="2">
+        <idficha>1</idficha>
+        <num>5</num>
+        <idoutro>0</idoutro>
+    </encontro>
+    
+    <encontro id="3">
+        <idficha>2</idficha>
+        <num>2</num>
+        <idoutro>0</idoutro>
+    </encontro>
+    
+</root>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<historia>
+	<evento id="0">
+		<descricao>
+			Voce esta trabalhando na construcao do palacio. 
+			O dia esta proximo do fim e voce imagina ser uma otima oportunidade de ir para casa. 
+			Quando chega uma multidao infurecida, eles querem a cabeca de seu patrao. 
+			Acusanm-nos de muitas coisas, entre elas a bruxaria.
+		</descricao>
+		<escolhas id="0">
+			<resposta>Seguir a multidao e ver no que da</resposta>
+			<tipo>0</tipo>
+			<idsaida>1</idsaida>
+		</escolhas>
+		<escolhas id="1">
+			<resposta>Ir para casa e quem sabe encontrar sua namorada</resposta>
+			<tipo>0</tipo>
+			<idsaida>2</idsaida>
+		</escolhas>
+	</evento>
+
+	<evento id="1">
+		<descricao>Voce segue a multidao e ve que era verdade, voces atravessam um cemiterio e os mortos comecam a se levantar</descricao>
+		<escolhas id="0">
+			<resposta></resposta>
+                        <tipo>0</tipo>
+			<idsaida></idsaida>
+		</escolhas>
+		<escolhas id="1">
+			<resposta></resposta>
+                        <tipo>0</tipo>
+			<idsaida></idsaida>
+		</escolhas>
+		<escolhas id="2">
+			<resposta></resposta>
+                        <tipo>0</tipo>
+			<idsaida></idsaida>
+		</escolhas>
+		<escolhas id="3">
+			<resposta></resposta>
+                        <tipo>0</tipo>
+			<idsaida></idsaida>
+		</escolhas>
+	</evento>
+	
+	<evento id="2">
+		<descricao>
+			Voce volta para casa, se arruma e resolve ver sua noiva!!
+			Mas, ao era verdade, o morto vivo queria conhecer alguem assim e estuda-lo.
+		</descricao>
+		<escolhas id="0">
+			<resposta></resposta>
+                        <tipo>0</tipo>
+			<idsaida></idsaida>
+		</escolhas>
+		<escolhas id="1">
+			<resposta></resposta>
+                        <tipo>0</tipo>
+			<idsaida></idsaida>
+		</escolhas>
+		<escolhas id="2">
+			<resposta></resposta>
+                        <tipo>0</tipo>
+			<idsaida></idsaida>
+		</escolhas>
+		<escolhas id="3">
+			<resposta></resposta>
+                        <tipo>0</tipo>
+			<idsaida></idsaida>
+		</escolhas>
+	</evento>
+</historia>

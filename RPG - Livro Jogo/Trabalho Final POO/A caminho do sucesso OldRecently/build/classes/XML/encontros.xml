@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<!-- Descricao: -->
+    <encontro id="0">
+        <idficha></idficha>
+        <num></num>
+        <idoutro></idoutro>
+    </encontro>
+    
+    <!-- Descricao: Cancela pedido -->
+    <encontro id="1">
+        <idficha>0</idficha>
+        <num>0</num>
+        <idoutro>0</idoutro>
+    </encontro>
+    
+    <!-- Descricao: 2 Zumbi e.. 1 esqueleto -->
+    <encontro id="2">
+        <idficha>4</idficha>
+        <num>1</num>
+        <idoutro>1</idoutro>
+    </encontro>
+
+    <!-- Descricao: ..1 Esqueleto -->
+    <encontro id="3">
+        <idficha>5</idficha>
+        <num>1</num>
+        <idoutro>1</idoutro>
+    </encontro>
+        
+	<!-- Descricao: 1 Golumerth-->
+    <encontro id="4">
+        <idficha>0</idficha>
+        <num>1</num>
+        <idoutro>1</idoutro>
+    </encontro>
+</root>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eventoschave>
+	<!-- ID: 7 -->
+	<chave id="0">
+		<idteste>6</idteste>
+		<descricaotrueid>Você é um morto-vivo e não parece se cansar e querer repouso. Quanto a fome estranhamente você já a saciou com alguns animais da floresta.</descricaotrueid>
+		<descricaofalseid>Você está cansado e com fome, afinal de contas você é humano e precisa descansar.</descricaofalseid>
+		<trueid>15</trueid>
+		<falseid>8</falseid>
+	</chave>
+	
+	<chave id="1">
+		<idteste></idteste>
+		<descricaotrueid></descricaotrueid>
+		<descricaofalseid></descricaofalseid>
+		<trueid></trueid>
+		<falseid></falseid>
+	</chave>
+	
+	<chave id="2">
+		<idteste></idteste>
+		<descricaotrueid></descricaotrueid>
+		<descricaofalseid></descricaofalseid>
+		<trueid></trueid>
+		<falseid></falseid>
+	</chave>
+	
+	<chave id="3">
+		<idteste></idteste>
+		<descricaotrueid></descricaotrueid>
+		<descricaofalseid></descricaofalseid>
+		<trueid></trueid>
+		<falseid></falseid>
+	</chave>
+</eventoschave>

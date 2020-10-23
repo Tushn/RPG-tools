@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feiticos>
+	<!-- Feitiços Arcanos -->
+	<poder id="0">
+		<nome>Raio de Jandor</nome>
+		<descricao>Um raio mágico que ao atingir um oponente feri-o gravemente. Sem chance de defesa. Ele perderá 6 pontos de vida.</descricao>
+		<idtipo>0</idtipo>
+		<tipo>Feitiço Arcano</tipo>
+		<custo>4</custo>
+		<valor>6</valor>
+		<contrandom>0</contrandom>
+	</poder>
+	<poder id="1">
+		<nome>Retorno da Fortuna</nome>
+		<descricao>Recupera um bocado de sorte, mas não além do inicial. Recupera sorte em 1d6 + 1.</descricao>
+		<idtipo>2</idtipo>
+		<tipo>Feitiço Arcano</tipo>
+		<custo>2</custo>
+		<valor>1</valor>
+		<contrandom>1</contrandom>
+	</poder>
+	
+	<!-- Feitiços Divinos -->
+	<poder id="2">
+		<nome>Recuperar Energia</nome>
+		<descricao>Recupera energia do alvo em 1d6 + 2.</descricao>
+		<idtipo>1</idtipo>
+		<tipo>Feitiço Divino</tipo>
+		<custo>1</custo>
+		<valor>2</valor>
+		<contrandom>1</contrandom>
+	</poder>
+	<poder id="3">
+		<nome>Benção Maior</nome>
+		<descricao>O ataque acerta automáticamente. E se passar no teste de sorte tirá 8, mas se não tirará apenas 2.</descricao>
+		<idtipo>3</idtipo>
+		<tipo>Feitiço Divino</tipo>
+		<custo>4</custo>
+		<valor>0</valor>
+		<contrandom>0</contrandom>
+	</poder>
+</feiticos>

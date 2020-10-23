@@ -1,0 +1,54 @@
+[
+   {
+      "@id": "0",
+      "nome": "Tull",
+      "habilidade": "12",
+      "energia": "18",
+      "sorte": "9",
+      "magia": "0",
+      "descricao": "Pedreiro",
+      "raca": "0", // humano
+      "kit": "0", // plebeu
+      "minpoder": "0",
+      "maxpoder": "0"
+   },
+   {
+      "@id": "1",
+      "nome": "Tull",
+      "habilidade": "13",
+      "energia": "24",
+      "sorte": "12",
+      "magia": "0",
+      "descricao": "UM morto que anda",
+      "raca": "1", // morto-vivo
+      "kit": "1", // guerreiro
+      "minpoder": "0",
+      "maxpoder": "0"
+   },
+   {
+      "@id": "2",
+      "nome": "Tull",
+      "habilidade": "12",
+      "energia": "19",
+      "sorte": "10",
+      "magia": "5",
+      "descricao": "Mago amaldiçoado",
+      "raca": "0", // humano
+      "kit": "2", // mago
+      "minpoder": "0",
+      "maxpoder": "1"
+   },
+   {
+      "@id": "3",
+      "nome": "Tull",
+      "habilidade": "12",
+      "energia": "19",
+      "sorte": "10",
+      "magia": "5",
+      "descricao": "Clerigo",
+      "raca": "0", // humano
+      "kit": "3", // clerigo
+      "minpoder": "2",
+      "maxpoder": "3"
+   }
+]

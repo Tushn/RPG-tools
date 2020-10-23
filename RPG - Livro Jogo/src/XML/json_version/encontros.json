@@ -1,0 +1,58 @@
+[
+   {
+      "@id": "0",
+      "idficha": [],
+      "num": [],
+      "idoutro": [],
+	  "commentary": ''
+   },
+   {
+      "@id": "1",
+      "idficha": "0",
+      "num": "0",
+      "idoutro": "0",
+	  "commentary": 'Cancela pedido'
+   },
+   {
+      "@id": "2",
+      "idficha": "4",
+      "num": "2",
+      "idoutro": "3",
+	  "commentary": '2 Zumbi'
+   },
+   {
+      "@id": "3",
+      "idficha": "5",
+      "num": "1",
+      "idoutro": "1",
+	  "commentary": '..1 Esqueleto'
+   },
+   {
+      "@id": "4",
+      "idficha": "0",
+      "num": "1",
+      "idoutro": "1",
+	  "commentary": '1 Golumerth'
+   },
+   {
+      "@id": "5",
+      "idficha": "3",
+      "num": "1",
+      "idoutro": "1",
+	  "commentary": 'Combate final contra Crovandor'
+   },
+   {
+      "@id": "6",
+      "idficha": "3",
+      "num": "1",
+      "idoutro": "7",
+	  "commentary": 'Combate final contra Crovandor e..'
+   },
+   {
+      "@id": "7",
+      "idficha": "2",
+      "num": "4",
+      "idoutro": "1",
+	  "commentary": '..seus 4 Guardas Homens Ratos'
+   }
+]

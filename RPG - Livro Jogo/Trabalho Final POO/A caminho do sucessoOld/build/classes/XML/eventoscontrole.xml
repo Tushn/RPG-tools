@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<historia>
+	<evento id="0">
+		<descricao>
+Voce esta trabalhando na construção do casarao de um aristocrata. O dia esta proximo do fim e voce imagina ser uma otima oportunidade de ir para casa. 
+Quando chega uma multidao infurecida, eles querem a cabeca de seu patrao. Acusanm-nos de muitas coisas, entre elas a bruxaria.
+		</descricao>
+                <tipo>0</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>0</comandoinicial>
+		<comandofinal>1</comandofinal>
+	</evento>
+
+	<evento id="1">
+		<descricao>
+Seguindo a multidao agora pode ver que era verdade, voces atravessam um cemiterio e os mortos comecam a se levantar. E a multidao enfurecida, ataca-os, a cena e violenta e alguns se acovardam.
+Correndo de volta para suas casas, mas nao parece ser uma boa ideia dar as costas para o inimigo e muitos morrem ao tentar.
+		</descricao>
+                <tipo>1</tipo>
+                <subtipo>1</subtipo>
+		<comandoinicial>2</comandoinicial>
+		<comandofinal>3</comandofinal>
+	</evento>
+	
+	<evento id="2">
+		<descricao>
+Voce volta para casa, se arruma e resolve ver sua noiva!! 
+Mas, algo aconteceu os familiares dela choram copiosamente, porque ela foi sequestrada pelo aristocrata e souberam e pensam que ela foi levada para algum ritual de sacrificio.
+Voce se desespera e volta para o casarao, tudo foi queimado, restos de corpos pelos chao. Voce atravessa as matas do terreno em meio a corpos de fazendeiros
+e de outros cadaveres que a muito tempo ja haviam morrido.
+Ao chegar em uma cripta desmoronada, voce encontra o corpo de sua amada e se arrepende de nao ter seguido a multidao. Ao se informar do conde ninguem possui seu paradeiro, 
+mas ao chegar proximo de um abismo que da para o mar proximo da cripta voce acha um pedaco de tecido rasgado carissimo, com certeza pertenceu ao nobre.
+Desolado voce encontra conforto na vida religiosa e se torna um clerigo do Deus Goliath, o deus da cura e regeneracao, mas tambem o deus do exorcismo e esconjuracao.
+Logo, voce pretende encontrar o conde e dar um fim nele.
+		</descricao>
+                <tipo>3</tipo>
+                <subtipo>1</subtipo>
+		<comandoinicial>4</comandoinicial>
+		<comandofinal>4</comandofinal>
+	</evento>
+</historia>

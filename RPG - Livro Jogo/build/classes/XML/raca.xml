@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<guj>
+    <raca id="0">
+        <nome>Humano</nome>
+        <habilidade>0</habilidade>
+        <energia>0</energia>
+        <sorte>0</sorte>
+        <magia>0</magia>
+    <descricao>Fazem tudo, ecleticos, mas nao excepcionais em algo como outras racas.</descricao>
+    </raca>
+    <raca id="1">
+        <nome>Morto Vivo</nome>
+        <habilidade>2</habilidade>
+        <energia>2</energia>
+        <sorte>2</sorte>
+        <magia>0</magia>
+        <descricao>Incansaveis e perigosos. Os mortos que continuam a vagar costumam estar a procura de vinganca ou poder.</descricao>
+    </raca>
+    <raca id="2">
+        <nome>Homem Rato</nome>
+        <habilidade>1</habilidade>
+        <energia>0</energia>
+        <sorte>1</sorte>
+        <magia>0</magia>
+        <descricao>Costuma ser habitantes dos esgotos e subterraneos, são seres sociaveis e formam colonias. Possuem olfato aguçado e podem seguir presas ate na imundice do esgoto. Alguns sao invocados e escravizados tornando-se combatentes terriveis.</descricao>
+    </raca>
+    <raca id="3">
+        <nome>Rattus Noverggicus</nome>
+        <habilidade>1</habilidade>
+        <energia>0</energia>
+        <sorte>0</sorte>
+        <magia>0</magia>
+        <descricao>Grandes ratos do esgoto, o maior especime do genero rattus.</descricao>
+    </raca>
+</guj>

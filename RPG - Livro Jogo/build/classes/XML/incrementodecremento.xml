@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incrementodecrementos>
+	<!--	Incremente os atributos e caracteristicas
+		- ID: 0. Nome
+		- ID: 1. Personagem
+		- ID: 2. Raca
+		- ID: 3. Kit
+		- ID: 4. Habilidade
+		- ID: 5. Energia
+		- ID: 6. Sorte
+		- ID: 7. Magia
+		- ID: 8. Habilidade Total
+		- ID: 9. Energia Total
+		- ID: 10. Sorte Total
+		- ID: 11. Magia Total
+	-->
+	<!-- Aumente mais em Habilidade e Sorte, alem do Total-->
+	<incrementodecremento id="0">
+		<atributo>8</atributo>
+		<valor>1</valor>
+		<idoutro>1</idoutro>
+	</incrementodecremento>
+	
+	<incrementodecremento id="1">
+		<atributo>4</atributo>
+		<valor>1</valor>
+		<idoutro>2</idoutro>
+	</incrementodecremento>
+	
+	<incrementodecremento id="2">
+		<atributo>10</atributo>
+		<valor>1</valor>
+		<idoutro>3</idoutro>
+	</incrementodecremento>
+	
+	<incrementodecremento id="3">
+		<atributo>6</atributo>
+		<valor>1</valor>
+		<idoutro>0</idoutro>
+	</incrementodecremento>
+	
+	<!-- Aumente em mais mil de Energia, a fim de nao aparecer o maximo de Energia -->
+	<incrementodecremento id="4">
+		<atributo>5</atributo>
+		<valor>1000</valor>
+		<idoutro>0</idoutro>
+	</incrementodecremento>
+</incrementodecrementos>

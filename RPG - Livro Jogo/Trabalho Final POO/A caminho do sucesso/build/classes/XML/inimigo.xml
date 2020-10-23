@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mobs>
+	<inimigo id="0">
+		<nome>Golumeth</nome>
+		<descricao>Assassino e ladrao, acompanhava uma caravana de ciganos, disfarçado apenas para roubar e matar</descricao>
+		<habilidade>12</habilidade>
+		<energia>9</energia>
+                <magia>9</magia>
+                <raca>0</raca>
+                <kit>4</kit>
+	</inimigo>
+	<inimigo id="1">
+		<nome>Rattus novergiccus</nome>
+		<descricao>Uma especie de rato do esgoto, conhecido como ratazana</descricao>
+		<habilidade>5</habilidade>
+		<energia>3</energia>
+                <magia>9</magia>
+                <raca>0</raca>
+                <kit>0</kit>
+	</inimigo>
+	<inimigo id="2">
+		<nome>Guarda Homem-rato</nome>
+		<descricao>Seres misteriosos criados por magia de conjuradores malignos e ensandecidos, que fortificaram a raça já existente</descricao>
+		<habilidade>5</habilidade>
+		<energia>6</energia>
+                <magia>9</magia>
+                <raca>3</raca>
+                <kit>0</kit>
+	</inimigo>
+	<inimigo id="3">
+		<nome>Bruxo Crovandor</nome>
+		<descricao>Um ser almadicoado. Possui vastos poderes e se alimenta de carne humana. Ningu�m sabe se ele ainda e humano.</descricao>
+		<habilidade>9</habilidade>
+		<energia>20</energia>
+                <magia>9</magia>
+                <raca>1</raca>
+                <kit>0</kit>
+	</inimigo>
+        <inimigo id="4">
+		<nome>Zumbi</nome>
+		<descricao>Morto-vivo criado por magia ou contaminação. Extremamente estúpido, sente apenas fome de carne humana.</descricao>
+		<habilidade>4</habilidade>
+		<energia>3</energia>
+                <magia>0</magia>
+                <raca>1</raca>
+                <kit>0</kit>            
+        </inimigo>
+        <inimigo id="5">
+        	<nome>Esqueleto</nome>
+		<descricao>Servo preferido de muitos necromantes, os esqueletos são tão fáceis de serem criados quanto zumbis, mas não caem pedaços como eles. Esqueletos não são inteligentes mas obedecem ordens à risca.</descricao>
+		<habilidade>9</habilidade>
+		<energia>7</energia>
+                <magia>0</magia>
+                <raca>1</raca>
+                <kit>0</kit>    
+        </inimigo>
+</mobs>

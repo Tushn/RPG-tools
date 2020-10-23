@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<historia>
+	<evento id="0">
+		<descricao>
+	Voce esta trabalhando na construção do casarao de um aristocrata. O dia esta proximo do fim e voce imagina ser uma otima oportunidade de ir para casa. 
+Quando chega uma multidao infurecida, eles querem a cabeca de seu patrao. Acusanm-nos de muitas coisas, entre elas a bruxaria.
+		</descricao>
+                <tipo>0</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>0</comandoinicial>
+		<comandofinal>1</comandofinal>
+	</evento>
+
+	<evento id="1">
+		<descricao>
+	Seguindo a multidao agora pode ver que era verdade, voces atravessam um cemiterio e os mortos comecam a se levantar. 
+E a multidao enfurecida, ataca-os, a cena e violenta e alguns se acovardam. Correndo de volta para suas casas, mas nao
+parece ser uma boa ideia dar as costas para o inimigo e muitos morrem ao tentar.
+		</descricao>
+                <tipo>0</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>2</comandoinicial>
+		<comandofinal>3</comandofinal>
+	</evento>
+	
+	<evento id="2">
+		<descricao>
+	Voce volta para casa, se arruma e resolve ver sua noiva!! 
+	Mas, algo aconteceu os familiares dela choram copiosamente, porque ela foi sequestrada pelo aristocrata e souberam e pensam que ela foi levada para algum ritual de sacrificio.
+Voce se desespera e volta para o casarao, tudo foi queimado, restos de corpos pelos chao. Voce atravessa as matas do terreno em meio a corpos de fazendeiros
+e de outros cadaveres que a muito tempo ja haviam morrido.
+	Ao chegar em uma cripta desmoronada, voce encontra o corpo de sua amada e se arrepende de nao ter seguido a multidao. Ao se informar do conde ninguem possui seu paradeiro, 
+mas ao chegar proximo de um abismo que da para o mar proximo da cripta voce acha um pedaco de tecido rasgado carissimo, com certeza pertenceu ao nobre.
+Desolado voce encontra conforto na vida religiosa e se torna um clerigo do Deus Goliath, o deus da cura e regeneracao, mas tambem o deus do exorcismo e esconjuracao.
+Logo, voce pretende encontrar o conde e dar um fim nele.
+		</descricao>
+                <tipo>0</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>4</comandoinicial>
+		<comandofinal>4</comandofinal>
+	</evento>
+	
+	<evento id="3">
+		<descricao>
+Voce resolveu continuar e na sua frente dois zumbis se arrastam e avançam para cima de você. Um esqueleto armado com ossos de alguém que acabou de matar, também vem em sua direção. 
+Você aperta o cabo do martelo e prepara-se para o combate!!
+		</descricao>
+                <tipo>0</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>5</comandoinicial>
+		<comandofinal>5</comandofinal>
+	</evento>
+
+	<evento id="4">
+		<descricao>
+Os poucos sobreviventes que caminhavam atrás do lorde, agora recuam dizem que sua cripta está desmoranando com ele e sua vítima.
+		</descricao>
+                <tipo>0</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>6</comandoinicial>
+		<comandofinal>7</comandofinal>
+	</evento>
+	
+	<evento id="5">
+		<descricao>
+	Ao alcançar a cripta, mal pode acreditar no que vê, sua noiva está presa em um altar e o lorde empunha uma arma pronta para mata-la.
+Você grita em desespero, e corre atravessando em meio aos mortos-vivos que lá estavam para proteger o seu maldito ex-patrão. O lorde é arremessado para
+longe com uma pancada do martelo que você pegou.
+	Ele olha para você incrédulo e nota que não há mais tempo para concluir ritual e salta pela janela em direção a um penhasco que desemboca no mar.
+Você grita e urra em desespero tentando liberta sua mulher enquanto os morto-vivos restantes caminham em sua direção. 
+Contudo, você não consegue e em meio ao desespero você grita por vingança quando as correntes que prendiam sua mulher o envolvem como uma serpente. 
+	Você urra em despero. O teto desaba e tudo fica escuro.
+		</descricao>
+                <tipo>0</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>8</comandoinicial>
+		<comandofinal>8</comandofinal>
+	</evento>
+	
+	<evento id="6">
+			<descricao>
+	Ao voltar, você se depara com o pai de sua noiva. Ele está muito ferido e pergunta por que você está voltando. 
+Afinal de contas é a filha dele, sua noiva, que foi raptada. Logo, você se desespera e corre de volta para cripta.
+Mas, agora é muito tarde a cripta desmoronou por completo. Em desespero, você caminha no cemitério que o um dia foi
+um jardim do lorde. Encontra, um pequeno mausoléu e se senta com vergonha e pos se a chorar.
+	Até ser surpreendido por um grande zumbi, mas ele não lhe ataca pois alguém atrás dele decepa sua cabeça. Estranhamente
+é uma bela mulher e lhe fornece carinho e proteção. Nessa noite você dorme com ela, e só acordaria na noite seguinte.
+A mulher era uma vampira e agora você, também é um. E ao se misturar com a noite você ainda sente a presença do lorde vivo ao longe no mar.
+	Por puro ódio você se permite ir atrás dele, uma busca que tomará alguns anos.
+		</descricao>
+                <tipo>0</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>9</comandoinicial>
+		<comandofinal>9</comandofinal>
+	</evento>
+
+</historia>

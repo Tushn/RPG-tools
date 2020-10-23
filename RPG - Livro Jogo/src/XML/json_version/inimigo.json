@@ -1,0 +1,62 @@
+[
+   {
+      "@id": "0",
+      "nome": "Golumerth",
+      "descricao": "Assassino e ladrao, acompanhava uma caravana de ciganos, disfarçado apenas para roubar e matar",
+      "habilidade": "12",
+      "energia": "9",
+      "magia": "9",
+      "raca": "0",
+      "kit": "4"
+   },
+   {
+      "@id": "1",
+      "nome": "Rattus novergiccus",
+      "descricao": "Uma especie de rato do esgoto, conhecido como ratazana",
+      "habilidade": "5",
+      "energia": "3",
+      "magia": "9",
+      "raca": "0",
+      "kit": "0"
+   },
+   {
+      "@id": "2",
+      "nome": "Guarda Homem-rato",
+      "descricao": "Seres misteriosos criados por magia de conjuradores malignos e ensandecidos, que fortificaram a raça já existente",
+      "habilidade": "5",
+      "energia": "6",
+      "magia": "9",
+      "raca": "3",
+      "kit": "0"
+   },
+   {
+      "@id": "3",
+      "nome": "Bruxo Crovandor",
+      "descricao": "Um ser almadicoado. Possui vastos poderes e se alimenta de carne humana. Ningu�m sabe se ele ainda e humano.",
+      "habilidade": "9",
+      "energia": "20",
+      "magia": "9",
+      "raca": "1",
+      "kit": "0"
+   },
+   {
+      "@id": "4",
+      "nome": "Zumbi",
+      "descricao": "Morto-vivo criado por magia ou contaminação. Extremamente estúpido, sente apenas fome de carne humana.",
+      "habilidade": "4",
+      "energia": "3",
+      "magia": "0",
+      "raca": "1",
+      "kit": "0"
+   },
+   {
+      "@id": "5",
+      "nome": "Esqueleto",
+      "descricao": "Servo preferido de muitos necromantes, os esqueletos são tão fáceis de serem criados quanto zumbis, mas não caem pedaços como eles. Esqueletos não são inteligentes mas obedecem ordens à risca.",
+      "habilidade": "7",
+      "energia": "7",
+      "magia": "0",
+      "raca": "1",
+      "kit": "0"
+   }
+]

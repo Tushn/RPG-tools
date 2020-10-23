@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<historia>
+	<evento id="0">
+		<descricao>
+	Você está trabalhando na construção do casarão de um aristocrata. O dia está proximo do fim e você imagina ser uma ótima 
+oportunidade de ir para casa. Quando chega uma multidao enfurecida, eles querem a cabeça de seu mestre. Acusam-no de 
+muitas atrocidades, entre elas a bruxaria.
+		</descricao>
+                <tipo>0</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>0</comandoinicial>
+		<comandofinal>1</comandofinal>
+	</evento>
+
+	<evento id="1">
+		<descricao>
+	Seguindo a multidao agora pode ver que era verdade, voces atravessam um cemiterio e os mortos comecam a se levantar. 
+E a multidao enfurecida, ataca-os, a cena e violenta e alguns se acovardam. Correndo de volta para suas casas, mas nao
+parece ser uma boa ideia dar as costas para o inimigo e muitos morrem ao tentar.
+		</descricao>
+                <tipo>0</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>2</comandoinicial>
+		<comandofinal>3</comandofinal>
+	</evento>
+	
+	<!-- Tornado-se um clerigo -->
+	<evento id="2">
+		<descricao>
+	Voce volta para casa, se arruma e resolve ver sua noiva!! 
+Mas, algo aconteceu os familiares dela choram copiosamente, porque ela foi sequestrada pelo aristocrata e souberam e 
+pensam que ela foi levada para algum ritual de sacrificio. Voce se desespera e volta para o casarao, tudo foi queimado, 
+restos de corpos pelos chao. Voce atravessa as matas do terreno em meio a corpos de fazendeiros e de outros cadaveres que
+a muito tempo ja haviam morrido.
+	Ao chegar em uma cripta desmoronada, voce encontra o corpo de sua amada e se arrepende de nao ter seguido a multidao. 
+Ao se informar do conde ninguem possui seu paradeiro, mas ao chegar proximo de um abismo que da para o mar proximo da cripta
+voce acha um pedaco de tecido rasgado carissimo, com certeza pertenceu ao nobre. Desolado voce encontra conforto na vida 
+religiosa e se torna um clerigo do Deus Goliath, o deus da cura e regeneração, mas também o deus do exorcismo e esconjuração.
+Logo, voce pretende encontrar o conde e dar um fim nele.
+		</descricao>
+                <tipo>4</tipo>
+                <subtipo>2</subtipo>
+		<comandoinicial>4</comandoinicial>
+		<comandofinal>4</comandofinal>
+	</evento>
+	
+	<evento id="3">
+		<descricao>
+	Voce resolveu continuar e na sua frente dois zumbis se arrastam e avançam para cima de você. Um esqueleto armado com ossos de 
+alguém que acabou de matar, também vem em sua direção. Você aperta o cabo do martelo e prepara-se para o combate!!
+		</descricao>
+                <tipo>1</tipo>
+                <subtipo>2</subtipo>
+		<comandoinicial>5</comandoinicial>
+		<comandofinal>5</comandofinal>
+	</evento>
+
+	<evento id="4">
+		<descricao>
+	Os poucos sobreviventes que caminhavam atrás do conde, agora recuam dizem que sua cripta está desmoranando com ele e sua 
+vítima.
+		</descricao>
+                <tipo>0</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>6</comandoinicial>
+		<comandofinal>7</comandofinal>
+	</evento>
+	
+	<!-- Tornando-se um mago -->
+	<evento id="5">
+		<descricao>
+	Ao alcançar a cripta, mal pode acreditar no que vê, sua noiva está presa em um altar e o conde empunha uma arma pronta para mata-la.
+Você grita em desespero, e corre atravessando em meio aos mortos-vivos que lá estavam para proteger o seu maldito ex-patrão. O conde é arremessado para
+longe com uma pancada do martelo que você pegou.
+	Ele olha para você incrédulo e nota que não há mais tempo para concluir ritual e salta pela janela em direção a um penhasco que desemboca no mar.
+Você grita e urra em desespero tentando liberta sua mulher enquanto os morto-vivos restantes caminham em sua direção. 
+Contudo, você não consegue e em meio ao desespero você grita por vingança quando as correntes que prendiam sua mulher o envolvem como uma serpente. 
+	Você urra em despero. O teto desaba e tudo fica escuro.
+	
+	Consegue tirar um bloco que estava sobre sua cabeça, você sai dos escombros.
+Agora desperto você não será mais o mesmo nota-se que tornou-se mais astuto e que um poder estranho
+corre em suas veias. Aparentemente o poder do ritual profano que seria usado pelo conde agora lhe foi dado.
+	E graças a eles você foi preservado durante alguns anos debaixo dos escombros. Talvez pelos poderes
+que agora você possuí a única ideia que vem a sua cabeça é de vingança por um pedaço do tecido do conde 
+ainda preso nos escombros, mesmo depois de tantos anos, você consegue sentir a direção de onde o conde está
+e irá até ele.
+		</descricao>
+                <tipo>4</tipo>
+                <subtipo>1</subtipo>
+		<comandoinicial>4</comandoinicial>
+		<comandofinal>4</comandofinal>
+	</evento>
+	
+	<!--Voce torna-se um vampiro -->
+	<evento id="6">
+			<descricao>
+	Ao voltar, você se depara com o pai de sua noiva. Ele está muito ferido e pergunta por que você está voltando. 
+Afinal de contas é a filha dele, sua noiva, que foi raptada. Logo, você se desespera e corre de volta para cripta.
+Mas, agora é muito tarde a cripta desmoronou por completo. Em desespero, você caminha no cemitério que o um dia foi
+um jardim do conde. Encontra, um pequeno mausoléu e se senta com vergonha e pos se a chorar.
+	Até ser surpreendido por um grande zumbi, mas ele não lhe ataca pois alguém atrás dele decepa sua cabeça. Estranhamente
+é uma bela mulher e lhe fornece carinho e proteção. Nessa noite você dorme com ela, e só acordaria na noite seguinte.
+A mulher era uma vampira e agora você, também é um. E ao se misturar com a noite você ainda sente a presença do conde vivo ao longe no mar.
+	Por puro ódio você se permite ir atrás dele, uma busca que tomará alguns anos.
+		</descricao>
+                <tipo>4</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>4</comandoinicial>
+		<comandofinal>4</comandofinal>
+	</evento>
+	
+	<evento id="7">
+		<descricao>
+	Você possuiu um grande tempo caminhado sob mantos muito pesados. Para não chamar muita atenção pelo caminho,
+além de estar protegido contra outros intepéries da natureza como a chuva, o vento, o sol, etc.
+	Contudo, ao longe você avista um acampamento. São ciganos!!
+		</descricao>
+                <tipo>2</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>8</comandoinicial>
+		<comandofinal>9</comandofinal>
+	</evento>
+	
+	<!-- Na festa dos ciganos verificar despues, AJUSTAR escolhas e testeschave -->
+		<evento id="8">
+		<descricao>
+	Você entra no acampamento dos ciganos, eles cobram uma taxa pela sua permanência com eles, mas como você foi generoso em seu pagamento
+eles vão lhe oferecer uma boa hospitalidade e bebidas. Eles fazem inúmeras apresentações de dança, passando por malabarismo até canto.
+	Contudo, como você está muito embriagado a sua percepção e atenção lhe falha quando é roubado por uma ladrãozinho de menos de 1,5m.
+		</descricao>
+                <tipo>0<!-- Tipo de teste de habilidade --></tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>8</comandoinicial>
+		<comandofinal>8</comandofinal>
+	</evento>
+
+	<evento id="9">
+		<descricao>
+	Ao alcançar o suposto ladrãzinho, nota-se que um indivíduo muito mais sinistro aborda o mirim. Ele é um homem alto e armado, questiona-se
+se vale a pena enfrentá-lo por um ladrãozinho como aquele.
+		</descricao>
+                <tipo>0</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>10</comandoinicial>
+		<comandofinal>11</comandofinal>
+	</evento>
+	
+	<evento id="10">
+		<descricao>
+	Você volta para sua cama sem ter ajudado o rapaz e tem sonos intranquilos com o ladrão pedindo ajuda.
+No dia seguinte você desperta todo suado. Quando sai da cabana alugada os ciganos começam a encará-lo com
+um olhar diferente..
+	Então você escuta um grito: "Assassino!!". Provavelmente eles encontraram o corpo do jovem ladrão e como
+você tinha perseguido-o acabou sendo considerado o assassino do rapaz, que azar..
+	Você é apedrejado e linchado até a morte.
+		</descricao>
+                <tipo>6</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>0</comandoinicial>
+		<comandofinal>0</comandofinal>
+	</evento>
+	
+	<evento id="11">
+		<descricao>
+	Você grita: "Largue o garoto seu patife". O homem não parece ter gostado de ouvir o que você falou e
+irá lhe ensinar uma boa lição. Você cerra os punhos e prepara um encantamento mentalmente. 
+		</descricao>
+                <tipo>1</tipo>
+                <subtipo>4</subtipo>
+		<comandoinicial>19</comandoinicial>
+		<comandofinal>19</comandofinal>
+	</evento>
+	
+	<evento id="12">
+		<descricao>
+	Tendo derrotado o assassino. Você nota que o ladrão é na verdade uma menina e que após isso ela estende a
+mão com a sua bolsa e seu dinheiro e suas pistas do conde. Você pode: 
+		</descricao>
+                <tipo>0</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>12</comandoinicial>
+		<comandofinal>13</comandofinal>
+	</evento>
+	
+		<evento id="13">
+		<descricao>
+	A garota chora de vergonha e de medo de sua brutalidade e vai lhe pedir que não a denuncie ou será 
+apedrejada, mas você a interrompe e manda que ela se cale. Ele não será denunciada, mas você não se arriscará
+com alguém que possa lhe trair e tira-lo do caminho de sua vingança.
+		</descricao>
+                <tipo>0</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>14</comandoinicial>
+		<comandofinal>14</comandofinal>
+	</evento>
+	
+		<evento id="14">
+		<descricao>
+	Tendo em vista a paciência que você teve, a garota pede-lhe desculpa e explica que só rouba porque sua
+mãe, uma grande cartomante, está doente e ela precisa de remédios caros que compra nas cidades em que passa.
+	Você se apieda da garota e resolve ajuda-la, dizendo que pode curar sua mãe. Ela lhe leva até ela e devido
+aos seus poderes mágicos você é capaz de expusar o mal que lhe afligia. Imensamente emocionadas pela piedade e 
+e ajuda que um desconhecido prestou, elas lhe dão um presente.
+	Trata-se de um anel que permite-lhe mudar o cheiro do seu corpo e levemente sua aparência, a velha prediz
+que o seu caminho será difícil, pois seus oponentes são fortes, então ela concluí: 
+	"Aproxime-se deles pela cozinha e de lá enfraqueça-os". Seja o que for que isso signifique você agradece aos
+presentes e parte.
+		</descricao>
+                <tipo>0</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>14</comandoinicial>
+		<comandofinal>14</comandofinal>
+	</evento>
+	
+	<!-- [CASTELO DO CONDE] -->
+	<evento id="15">
+		<descricao>
+	Agora você está diante do castelo do conde/bruxo, você nota que o lugar é bem isolado e provavelmente pertenceu
+a outro nobre pouco tempo antes, porque há resto de brasões de uma outra família danificados na entrada e nos muros
+do local. A entrada é protegida por dois guardas que olhando de perto você nota que há tempos que eles não são mais
+humanos, provalmente são esqueletos sob uma armaduras pesadas.
+	Eles perguntam o que você veio fazer. E você responde:
+		</descricao>
+                <tipo>0</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>15</comandoinicial>
+		<comandofinal>18</comandofinal>
+	</evento>
+	
+	<evento id="16">
+		<descricao>
+	Eles não gostaram da sua conversa, não acreditaram e nem se intimidaram com ela. Infelizmente eles lhe atacam.
+E mais infelizmente ainda os guardas eram mais fortes do que você imaginava, sendo os servos mais poderosos do Conde, 
+eles acabam com você com apenas um golpe.
+		</descricao>
+                <tipo>6</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>0</comandoinicial>
+		<comandofinal>0</comandofinal>
+	</evento>
+	
+	<evento id="17">
+		<descricao>
+	Entra na casarão e caminha furtivamente a procura do quarto do conde. Você acha o local é tão óbvio, pois há dois quardas
+na entrada além de ser o quarto com melhor aparência. E mais alto do local.
+		</descricao>
+                <tipo>2</tipo>
+                <subtipo>1</subtipo>
+		<comandoinicial>20</comandoinicial>
+		<comandofinal>20</comandofinal>
+	</evento>
+	
+	<evento id="18">
+		<descricao>
+	Você está na cozinha, maldição. A comida fede, você não sabe cozinhar mas neste caso não considera difícil preparar alguma coisa.
+Logo você joga veneno, para os monstros, e água benta, para os mortos-vivos, em meio a gororoba e espera que mate ou pelo menos 
+enfraqueça seus inimigos.
+	Um guarda, na realidade um homem rato, aparece e pergunta se está tudo pronto, afinal de contas você é novo cozinheiro e deve ter
+a honra de servir pessoalmente o "chefe".
+
+	Você entra nos aposentos do conde. Para servir sua comida, a porta é trancada logo atrás dele. Você que o conde não só está em 
+péssimo estado como também se transformou em um ser horrendo meio homem e meio rato. Assim como seus dois guardas dentro de seus 
+aposentos. Com nojo você os serve.
+
+	O Efeito de seus venenos e água benta tem surtido efeito, do lado de fora você escuta barulhos e desespero por parte das crias
+de Crovandor, o conde e bruxo que um dia foi seu mestre. Os dois soldados a serviço dele também perecem, mas ele continua de pé e
+agora reconhece-o e grita:
+	"Maldito!! Você me paga, maldito, hoje estou assim por sua causa e do seu vilarejo imundo!!" 
+	Você então saca suas armas e mostra para ele que não será tão fácil. 
+	O combate final começa e você está preparado para isso a muito tempo!!
+		</descricao>
+                <tipo>0</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>21</comandoinicial>
+		<comandofinal>21</comandofinal>
+	</evento>
+	
+	<evento id="19">
+		<descricao>
+	Você concluiu sua missão e derrotou o conde.
+		</descricao>
+                <tipo>6</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>0</comandoinicial>
+		<comandofinal>0</comandofinal>
+	</evento>
+	
+	<evento id="20">
+		<descricao>
+	Ok, você adentrou o casarão. E é guiado por um estranho e deformado mordomo até o quarto do seu mestre.
+		</descricao>
+                <tipo>0</tipo>
+                <subtipo>0</subtipo>
+		<comandoinicial>20</comandoinicial>
+		<comandofinal>20</comandofinal>
+	</evento>
+	
+	<evento id="21">
+		<descricao>
+	Você consegue invadir os aposentos do mago Crovandor, mas ele não está sozinho e seus 4 Guardas Homens Ratos já estão apostos para
+o combate. O conde está um farrapo e não é mais humano, seu corpo está coberto de pelo e sua cara está igual a de um roedor, extremamente
+asqueroso. Ele possui olhos insanos, mas ainda parece manter uma inteligência antiga e maligna. Os guardas partem para cima de você com
+seu mestre e você prepara-se para enfrentá-los.
+		</descricao>
+                <tipo>1</tipo>
+                <subtipo>6</subtipo>
+		<comandoinicial>20</comandoinicial>
+		<comandofinal>20</comandofinal>
+	</evento>
+	
+	<!-- Testes -->
+	<evento id="22">
+		<descricao>
+	Você inventou uma ótima desculpa, parece que eles de fato estavam esperando um cozinheiro. Mas, apesar da coincidência eles também são 
+muito desconfiados e param para pensar..
+		</descricao>
+				<tipo>3</tipo>
+				<subtipo>0</subtipo>
+		<comandoinicial>16</comandoinicial>
+		<comandofinal>18</comandofinal>
+	</evento>
+	
+	<evento id="23">
+		<descricao>
+	Sua desculpa não é muito boa, pois já lhe dá um acesso muito importante ao conde mas eles param para pensar.
+		</descricao>
+				<tipo>3</tipo>
+				<subtipo>1</subtipo>
+		<comandoinicial>21</comandoinicial>
+		<comandofinal>21</comandofinal>
+	</evento>
+	
+	<evento id="24">
+		<descricao>
+	O conde está fraco e vocês estão sozinhos não há oprtunidade melhor.
+		</descricao>
+				<tipo>1</tipo>
+				<subtipo>5</subtipo>
+		<comandoinicial>22</comandoinicial>
+		<comandofinal>22</comandofinal>
+	</evento>
+	
+</historia>

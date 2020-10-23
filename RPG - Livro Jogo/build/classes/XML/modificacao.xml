@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modificacoes>
+	<!--	Troque os atributos e caracteristicas
+		- ID: 0. Nome
+		- ID: 1. Personagem
+		- ID: 2. Raca
+		- ID: 3. Kit
+		- ID: 4. Habilidade
+		- ID: 5. Energia
+		- ID: 6. Sorte
+		- ID: 7. Magia
+		- ID: 8. Habilidade Total
+		- ID: 9. Energia Total
+		- ID: 10. Sorte Total
+		- ID: 11. Magia Total
+	-->
+	
+	<!-- Robson: Morto-Vivo & Guerreiro -->
+	<modificacao id="0">
+		<atributo>1</atributo>
+		<valor>1</valor>
+		<idoutro>0</idoutro>
+	</modificacao>
+	
+	<!-- Robson: Humano & Mago -->
+	<modificacao id="1">
+		<atributo>1</atributo>
+		<valor>2</valor>
+		<idoutro>0</idoutro>
+	</modificacao>
+	
+	<!-- Robson: Humano & Clerigo -->
+	<modificacao id="2">
+		<atributo>1</atributo>
+		<valor>3</valor>
+		<idoutro>0</idoutro>
+	</modificacao>
+</modificacoes>

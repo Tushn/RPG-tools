@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comandos>	
+	<!-- ID: 0 --><!--:Iniciar-->
+	<escolhas id="0">
+		<resposta>Seguir a multidao e ver no que vai dar.</resposta>
+		<!--tipo>0</tipo-->
+		<idsaida>1</idsaida>
+	</escolhas>
+	<escolhas id="1">
+		<resposta>Ir para casa e quem sabe encontrar sua namorada.</resposta>
+		<!--tipo>0<tipo-->
+		<idsaida>2</idsaida>
+	</escolhas>
+	
+	<!-- ID: 1 --><!--:Seguir a multidao-->
+	<escolhas id="2">
+		<resposta>Em meio ao combate voce resolve se unir a multidão.</resposta>
+         <!--tipo>0<tipo-->
+		<idsaida>3</idsaida>
+	</escolhas>
+	<escolhas id="3">
+		<resposta>Voce esta com medo e decidi voltar.</resposta>
+        <!--tipo>0<tipo-->
+		<idsaida>2</idsaida>
+	</escolhas>
+	
+	<!-- ID: 2 --><!--:Indo para casa-->
+	<escolhas id="4">
+		<resposta>Você recebe o paradeiro do conde na cidade vai atras dele</resposta>
+        <!--tipo>0<tipo-->
+		<idsaida>6</idsaida>
+	</escolhas>
+	
+	<!-- ID: 3 -->
+	<escolhas id="5">
+		<resposta>Seguir para cripta do lorde, lá deve ser onde está sendo realizado o ritual.</resposta>
+        <!--tipo>0<tipo-->
+		<idsaida>4</idsaida>
+	</escolhas>
+	
+	<!-- ID: 4 -->
+	<escolhas id="6">
+		<resposta>Seguir para cripta a fim de ajudar.</resposta>
+        <!--tipo>0<tipo-->
+		<idsaida>5</idsaida>
+	</escolhas>
+	
+	<escolhas id="7">
+		<resposta>Recuar afinal de contas, não deve-se dar muito tempo para fazer mais nada.</resposta>
+        <!--tipo>0<tipo-->
+		<idsaida>6</idsaida>
+	</escolhas>
+	
+	<escolhas id="8">
+		<resposta>Recuar afinal de contas, não deve-se dar muito tempo para fazer mais nada.</resposta>
+        <!--tipo>0<tipo-->
+		<idsaida>6</idsaida>
+	</escolhas>
+	
+</comandos>

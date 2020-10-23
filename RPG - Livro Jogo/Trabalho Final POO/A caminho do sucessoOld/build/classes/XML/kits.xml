@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<qualquer>
+	<kit id="0">
+		<nome>Plebeu</nome>
+		<habilidade>0</habilidade>
+		<energia>0</energia>
+		<sorte>0</sorte>
+		<magia>0</magia>
+		<descricao>Guerreiros s�o a defini��o mais simples que abarque diversos tipos de lutadores.</descricao>
+	</kit>
+	<kit id="1">
+		<nome>Guerreiro</nome>
+		<habilidade>2</habilidade>
+		<energia>1</energia>
+		<sorte>1</sorte>
+		<magia>0</magia>
+		<descricao>Guerreiros s�o a defini��o mais simples que abarque diversos tipos de lutadores.</descricao>
+	</kit>
+	<kit id="2">
+		<nome>Mago</nome>
+		<habilidade>-2</habilidade>
+		<energia>0</energia>
+		<sorte>0</sorte>
+		<magia>5</magia>
+		<descricao>Magos sao estudiosos que adquirem poderes sobrenaturais</descricao>
+	</kit>
+	<kit id="3">
+		<nome>Clerigo</nome>
+		<habilidade>-2</habilidade>
+		<energia>0</energia>
+		<sorte>5</sorte>
+		<magia>5</magia>
+		<descricao>C�rigos sao sacerdotes.</descricao>
+	</kit>
+        <kit id="4">
+		<nome>Assassino</nome>
+		<habilidade>1</habilidade>
+		<energia>0</energia>
+		<sorte>1</sorte>
+		<magia>0</magia>
+		<descricao>Profissional em degolar pessoas e eliminar alvos sem ser percebido.</descricao>
+	</kit>
+</qualquer>

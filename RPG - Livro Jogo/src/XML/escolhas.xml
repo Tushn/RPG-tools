@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comandos>	
+	<!-- ID: 0 --><!--:Iniciar-->
+	<escolhas id="0">
+		<resposta>Seguir a multidao e ver no que vai dar.</resposta>
+		<!--tipo>0</tipo-->
+		<idsaida>1</idsaida>
+	</escolhas>
+	<escolhas id="1">
+		<resposta>Ir para casa e quem sabe encontrar sua namorada.</resposta>
+		<!--tipo>0<tipo-->
+		<idsaida>2</idsaida>
+	</escolhas>
+	
+	<!-- ID: 1 --><!--:Seguir a multidao-->
+	<escolhas id="2">
+		<resposta>Em meio ao combate voce resolve se unir a multidão.</resposta>
+         <!--tipo>0<tipo-->
+		<idsaida>3</idsaida>
+	</escolhas>
+	<escolhas id="3">
+		<resposta>Voce esta com medo e decidi voltar.</resposta>
+        <!--tipo>0<tipo-->
+		<idsaida>2</idsaida>
+	</escolhas>
+	
+	<!-- ID: 2 --><!--:Indo para casa-->
+	<escolhas id="4">
+		<resposta>Seguir o paradeiro do conde</resposta>
+        <!--tipo>0<tipo-->
+		<idsaida>7</idsaida>
+	</escolhas>
+	
+	<!-- ID: 3 -->
+	<escolhas id="5">
+		<resposta>Seguir para cripta do conde, lá deve ser onde está sendo realizado o ritual.</resposta>
+        <!--tipo>0<tipo-->
+		<idsaida>4</idsaida>
+	</escolhas>
+	
+	<!-- ID: 4 -->
+	<escolhas id="6">
+		<resposta>Seguir para cripta a fim de ajudar.</resposta>
+        <!--tipo>0<tipo-->
+		<idsaida>5</idsaida>
+	</escolhas>
+	<escolhas id="7">
+		<resposta>Recuar afinal de contas, não deve-se dar muito tempo para fazer mais nada.</resposta>
+        <!--tipo>0<tipo-->
+		<idsaida>6</idsaida>
+	</escolhas>
+	
+	<!-- ID: 8 -->
+	<escolhas id="8">
+		<resposta>Pague pelo serviço, você tem uma boa quantia de dinheiro que economizou ao longo do seu trabalho para conde.</resposta>
+        <!--tipo>0<tipo-->
+		<idsaida>9</idsaida>
+	</escolhas>	
+	
+	<escolhas id="9">
+		<resposta>Pague pelo serviço, você tem uma boa quantia de dinheiro que economizou ao longo do seu trabalho para conde.</resposta>
+        <!--tipo>0<tipo-->
+		<idsaida>9</idsaida>
+	</escolhas>
+	
+	<!-- ID: 9 -->
+	<escolhas id="10">
+		<resposta>Atacar o assassino.</resposta>
+        <!--tipo>0<tipo-->
+		<idsaida>11</idsaida>
+	</escolhas>
+	
+	<escolhas id="11">
+		<resposta>Retornar para o quarto.</resposta>
+        <!--tipo>0<tipo-->
+		<idsaida>10</idsaida>
+	</escolhas>
+	
+	<!-- ID: 10 -->
+	<escolhas id="12">
+		<resposta>Pegar suas coisas e perguntar se pode ajudar em algo.</resposta>
+		<!--tipo>0<tipo-->
+		<idsaida>14</idsaida>
+	</escolhas>
+	
+	<escolhas id="13">
+		<resposta>Tomar rapidamente suas coisas de volta e perguntar: "Uma garota como você roubando? Não tem vergonha?". E partir.</resposta>
+		<!--tipo>0<tipo-->
+		<idsaida>13</idsaida>
+	</escolhas>
+	
+	<!-- ID: 13 e 14 -->
+	<escolhas id="14">
+		<resposta>Descansar e seguir para o castelo do conde.</resposta>
+		<!--tipo>0<tipo-->
+		<idsaida>15</idsaida>
+	</escolhas>
+	
+	
+	<!-- ID: 15 [CASTELO DO CONDE] -->
+	<escolhas id="15">
+		<resposta>"Vim para proteger o próprio conde. Sou o novo quarda-costas dele."</resposta>
+		<!--tipo>0<tipo-->
+		<idsaida>23</idsaida>	
+	</escolhas>
+
+	<escolhas id="16">
+		<resposta>"Vim para servir na cozinha sou o novo cozinheiro."</resposta>
+		<!--tipo>0<tipo-->
+		<idsaida>22</idsaida>
+	</escolhas>
+	
+	<escolhas id="17">
+		<resposta>"Vim cuidar dos jardins do conde eles estão em péssimo estado."</resposta>
+		<!--tipo>0<tipo-->
+		<idsaida>16</idsaida>
+	</escolhas>
+	
+	<escolhas id="18">
+		<resposta>"Vim desafiar o seu mestre soldados imundos, preparem-se para morrer."</resposta>
+		<!--tipo>0<tipo-->
+		<idsaida>16</idsaida>
+	</escolhas>
+	
+	<!-- ID: 11 -->
+	<escolhas id="19">
+		<resposta>Aproximar-se para pegar suas de volta.</resposta>
+		<!--tipo>0<tipo-->
+		<idsaida>12</idsaida>
+	</escolhas>
+	
+	<!-- ID: 20 -->
+	<escolhas id="20">
+		<resposta>Siga adiante, para enfrentar o conde.</resposta>
+		<!--tipo>0<tipo-->
+		<idsaida>21</idsaida>
+	</escolhas>
+	
+	<!-- ID: 18 -->
+	<escolhas id="21">
+		<resposta>Lutar: </resposta>
+		<!--tipo>0<tipo-->
+		<idsaida>24</idsaida>
+	</escolhas>
+	
+	<!-- ID: 24 e 21 -->
+	<escolhas id="22">
+		<resposta>Saia do casarão</resposta>
+		<!--tipo>0<tipo-->
+		<idsaida>19</idsaida>
+	</escolhas>
+</comandos>

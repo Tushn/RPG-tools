@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<encontros>
+	<!-- Descricao: -->
+    <encontro id="0">
+        <idficha></idficha>
+        <num></num>
+        <idoutro></idoutro>
+    </encontro>
+    
+    <!-- Descricao: Cancela pedido -->
+    <encontro id="1">
+        <idficha>0</idficha>
+        <num>0</num>
+        <idoutro>0</idoutro>
+    </encontro>
+    
+    <!-- Descricao: 2 Zumbi -->
+    <encontro id="2">
+        <idficha>4</idficha>
+        <num>2</num><!--2-->
+        <idoutro>3</idoutro><!--3-->
+    </encontro>
+
+    <!-- Descricao: ..1 Esqueleto -->
+    <encontro id="3">
+        <idficha>5</idficha>
+        <num>1</num>
+        <idoutro>1</idoutro>
+    </encontro>
+        
+	<!-- Descricao: 1 Golumerth-->
+    <encontro id="4">
+        <idficha>0</idficha>
+        <num>1</num>
+        <idoutro>1</idoutro>
+    </encontro>
+	
+	<!-- Descricao: Combate final contra Crovandor-->
+    <encontro id="5">
+        <idficha>3</idficha>
+        <num>1</num>
+        <idoutro>1</idoutro>
+    </encontro>
+	
+	<!-- Descricao: Combate final contra Crovandor e.. -->
+    <encontro id="6">
+        <idficha>3</idficha>
+        <num>1</num>
+        <idoutro>7</idoutro>
+    </encontro>
+	
+	<!-- Descricao: ..seus 4 Guardas Homens Ratos -->
+    <encontro id="7">
+        <idficha>2</idficha>
+        <num>4</num>
+        <idoutro>1</idoutro>
+    </encontro>
+</encontros>
