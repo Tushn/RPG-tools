@@ -1,0 +1,18 @@
+[
+   {
+      "@id": "0",
+      "caracteristica": "0",
+      "dificuldade": "19",
+      "trueid": "18",
+      "falseid": "16",
+	  "commentary": "Conversa com os poderosos guardiões"
+   },
+   {
+      "@id": "1",
+      "caracteristica": "0",
+      "dificuldade": "22",
+      "trueid": "20",
+      "falseid": "16",
+	  "commentary": ""
+   }
+]

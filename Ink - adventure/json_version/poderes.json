@@ -1,0 +1,46 @@
+[
+   {
+      "@id": "0",
+      "nome": "Raio de Jandor",
+      "descricao": "Um raio mágico que ao atingir um oponente feri-o gravemente. Sem chance de defesa. Ele perderá 6 pontos de vida.",
+      "idtipo": "0",
+      "tipo": "Feitiço Arcano",
+      "custo": "4",
+      "valor": "6",
+      "contrandom": "0",
+	  "commentary": "Feitiços Arcanos"
+   },
+   {
+      "@id": "1",
+      "nome": "Retorno da Fortuna",
+      "descricao": "Recupera um bocado de sorte, mas não além do inicial. Recupera sorte em 1d6 + 1.",
+      "idtipo": "2",
+      "tipo": "Feitiço Arcano",
+      "custo": "2",
+      "valor": "1",
+      "contrandom": "1",
+	  "commentary": "Feitiços Arcanos"
+   },
+   {
+      "@id": "2",
+      "nome": "Recuperar Energia",
+      "descricao": "Recupera energia do alvo em 1d6 + 2.",
+      "idtipo": "1",
+      "tipo": "Feitiço Divino",
+      "custo": "1",
+      "valor": "2",
+      "contrandom": "1",
+	  "commentary": "Feitiços Divinos"
+   },
+   {
+      "@id": "3",
+      "nome": "Benção Maior",
+      "descricao": "O ataque acerta automáticamente. E se passar no teste de sorte tirá 8, mas se não tirará apenas 2.",
+      "idtipo": "3",
+      "tipo": "Feitiço Divino",
+      "custo": "4",
+      "valor": "0",
+      "contrandom": "0",
+	  "commentary": "Feitiços Divinos"
+   }
+]

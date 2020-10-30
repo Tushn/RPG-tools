@@ -1,0 +1,47 @@
+[
+	/* Incremente os atributos e caracteristicas
+		- ID: 0. Nome
+		- ID: 1. Personagem
+		- ID: 2. Raca
+		- ID: 3. Kit
+		- ID: 4. Habilidade
+		- ID: 5. Energia
+		- ID: 6. Sorte
+		- ID: 7. Magia
+		- ID: 8. Habilidade Total
+		- ID: 9. Energia Total
+		- ID: 10. Sorte Total
+		- ID: 11. Magia Total
+	*/
+	// Aumente mais em Habilidade e Sorte, alem do Total
+   {
+      "@id": "0",
+      "atributo": "8",
+      "valor": "1",
+      "idoutro": "1"
+   },
+   {
+      "@id": "1",
+      "atributo": "4",
+      "valor": "1",
+      "idoutro": "2"
+   },
+   {
+      "@id": "2",
+      "atributo": "10",
+      "valor": "1",
+      "idoutro": "3"
+   },
+   {
+      "@id": "3",
+      "atributo": "6",
+      "valor": "1",
+      "idoutro": "0"
+   },
+   {
+      "@id": "4",
+      "atributo": "5",
+      "valor": "1000",
+      "idoutro": "0"
+   }
+]

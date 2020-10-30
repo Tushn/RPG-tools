@@ -1,0 +1,140 @@
+[
+   {
+      "@id": "0",
+      "resposta": "Seguir a multidao e ver no que vai dar.",
+      "idsaida": "1",
+	  "commentary": "0: Iniciar"
+   },
+   {
+      "@id": "1",
+      "resposta": "Ir para casa e quem sabe encontrar sua namorada.",
+      "idsaida": "2",
+	  "commentary": "0: Não seguir a multidao."
+   },
+   {
+      "@id": "2",
+      "resposta": "Em meio ao combate voce resolve se unir a multidão.",
+      "idsaida": "3",
+	  "commentary": "1: Seguir a multidao"
+   },
+   {
+      "@id": "3",
+      "resposta": "Voce esta com medo e decidi voltar.",
+      "idsaida": "2",
+	  "commentary": "1: Não seguir a multidão"
+   },
+   {
+      "@id": "4",
+      "resposta": "Seguir o paradeiro do conde",
+      "idsaida": "7",
+	  "commentary": "2: Indo para casa."
+   },
+   {
+      "@id": "5",
+      "resposta": "Seguir para cripta do conde, lá deve ser onde está sendo realizado o ritual.",
+      "idsaida": "4",
+	  "commentary": "3:"
+   },
+   {
+      "@id": "6",
+      "resposta": "Seguir para cripta a fim de ajudar.",
+      "idsaida": "5",
+	  "commentary": "4:"
+   },
+   {
+      "@id": "7",
+      "resposta": "Recuar afinal de contas, não deve-se dar muito tempo para fazer mais nada.",
+      "idsaida": "6",
+	  "commentary": "4:"
+   },
+   {
+      "@id": "8",
+      "resposta": "Pague pelo serviço, você tem uma boa quantia de dinheiro que economizou ao longo do seu trabalho para conde.",
+      "idsaida": "9",
+	  "commentary": "8:"
+   },
+   {
+      "@id": "9",
+      "resposta": "Pague pelo serviço, você tem uma boa quantia de dinheiro que economizou ao longo do seu trabalho para conde.",
+      "idsaida": "9",
+	  "commentary": "8:"
+   },
+   {
+      "@id": "10",
+      "resposta": "Atacar o assassino.",
+      "idsaida": "11",
+	  "commentary": "9:"
+   },
+   {
+      "@id": "11",
+      "resposta": "Retornar para o quarto.",
+      "idsaida": "10",
+	  "commentary": "9:"
+   },
+   {
+      "@id": "12",
+      "resposta": "Pegar suas coisas e perguntar se pode ajudar em algo.",
+      "idsaida": "14",
+	  "commentary": "10:"
+   },
+   {
+      "@id": "13",
+      "resposta": "Tomar rapidamente suas coisas de volta e perguntar: \"Uma garota como você roubando? Não tem vergonha?\". E partir.",
+      "idsaida": "13",
+	  "commentary": "10:"
+   },
+   {
+      "@id": "14",
+      "resposta": "Descansar e seguir para o castelo do conde.",
+      "idsaida": "15",
+	  "commentary": "13 & 14:"
+   },
+   {
+      "@id": "15",
+      "resposta": "\"Vim para proteger o próprio conde. Sou o novo quarda-costas dele.\"",
+      "idsaida": "23",
+	  "commentary": "15: CASTELO DO CONDE"
+   },
+   {
+      "@id": "16",
+      "resposta": "\"Vim para servir na cozinha sou o novo cozinheiro.\"",
+      "idsaida": "22",
+	  "commentary": "15:"
+   },
+   {
+      "@id": "17",
+      "resposta": "\"Vim cuidar dos jardins do conde eles estão em péssimo estado.\"",
+      "idsaida": "16",
+	  "commentary": "15:"
+   },
+   {
+      "@id": "18",
+      "resposta": "\"Vim desafiar o seu mestre soldados imundos, preparem-se para morrer.\"",
+      "idsaida": "16",
+	  "commentary": "15:"
+   },
+   {
+      "@id": "19",
+      "resposta": "Aproximar-se para pegar suas de volta.",
+      "idsaida": "12",
+	  "commentary": "11:"
+   },
+   {
+      "@id": "20",
+      "resposta": "Siga adiante, para enfrentar o conde.",
+      "idsaida": "21",
+	  "commentary": "20:"
+   },
+   {
+      "@id": "21",
+      "resposta": "Lutar:",
+      "idsaida": "24",
+	  "commentary": "18:"
+   },
+   {
+      "@id": "22",
+      "resposta": "Saia do casarão",
+      "idsaida": "19",
+	  "commentary": "24 & 21:"
+   }
+]

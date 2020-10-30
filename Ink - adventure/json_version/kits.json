@@ -1,0 +1,47 @@
+[
+   {
+      "@id": "0",
+      "nome": "Plebeu",
+      "habilidade": "0",
+      "energia": "0",
+      "sorte": "0",
+      "magia": "0",
+      "descricao": "São os servos do reino, podem não serem treinados na arte da guerra, mas a base da sociedade."
+   },
+   {
+      "@id": "1",
+      "nome": "Guerreiro",
+      "habilidade": "2",
+      "energia": "1",
+      "sorte": "1",
+      "magia": "0",
+      "descricao": "Guerreiros são a definição mais simples que abarque diversos tipos de lutadores."
+   },
+   {
+      "@id": "2",
+      "nome": "Mago",
+      "habilidade": "-1",
+      "energia": "0",
+      "sorte": "0",
+      "magia": "5",
+      "descricao": "Magos sao estudiosos que adquirem poderes sobrenaturais"
+   },
+   {
+      "@id": "3",
+      "nome": "Clerigo",
+      "habilidade": "-1",
+      "energia": "0",
+      "sorte": "5",
+      "magia": "5",
+      "descricao": "Clérigos são sacerdotes."
+   },
+   {
+      "@id": "4",
+      "nome": "Assassino",
+      "habilidade": "1",
+      "energia": "0",
+      "sorte": "1",
+      "magia": "0",
+      "descricao": "Profissional em degolar pessoas e eliminar alvos sem ser percebido."
+   }
+]
