@@ -1,26 +1,39 @@
 # author: Artur Franco
 # theme: dark
-- Evento 1
-*   Escolha 1 -> path_one
-*   Escolha 2 -> path_two
 
+VAR tocha = 0
+Iniciar -> casa
 
-=== path_one ===
-Caminho um!
+=== casa ===
+Minha casa é uma maravilha
++   Ir para pantâno -> pantano
++   Ir para floresta -> floresta.clareira
++   {tocha == 1} Ir para caverna -> caverna
 
-* go orient express -> the_orient_express
+=== pantano ===
+Pântano fétido
 
-=== the_orient_express ===
-= in_first_class 
-	I settled my master.
-	*	[Move to third class]
-		-> in_third_class
++   Ir para floresta -> floresta.clareira
++   Ir para casa de veia -> floresta.casa_da_veia
 
-= in_third_class
-	I put myself in third.
+=== floresta ===
+= casa_da_veia
+Aqui é a casa da véia
+~ tocha = 1
++   Voltar para casa -> casa
+
+= clareira
+Clareia muito estranha
++   Ir para casa -> casa
++   Pegar no pau da véia  -> casa_da_veia
++   Ir para cidade -> cidade
+
+=== caverna ===
+Caverna cheia de bosta e mortal, você nem sabe que bicho te mordeu!
 -> END
 
-=== path_two ===
-Caminho dois?
+=== cidade ===
+Cidade cheio de cobradores!
+Melhor voltar para casa -> casa
 
 -> END
