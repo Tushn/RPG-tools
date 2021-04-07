@@ -149,6 +149,5 @@ public class StartGame {
     public static void main(String[] args){
         StartGame jovem = new StartGame();
         jovem.jogar();
-    }     
-        
+    }        
 }

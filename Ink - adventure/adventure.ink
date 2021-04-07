@@ -11,7 +11,9 @@ Minha casa é uma maravilha
 +   {tocha == 1} Ir para caverna -> caverna
 
 === pantano ===
-Pântano fétido
+Pântano fétido tem entidade x, que está "assim e assado"
+
+Descrição no pântano 
 
 +   Ir para floresta -> floresta.clareira
 +   Ir para casa de veia -> floresta.casa_da_veia

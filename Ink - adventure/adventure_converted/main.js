@@ -1,7 +1,40 @@
+var globalStory; // tutu
+function splitPropertyTag(tag) { // tutu
+	var propertySplitIdx = tag.indexOf(":");
+	if( propertySplitIdx != null ) {
+		var property = tag.substr(0, propertySplitIdx).trim();
+		var val = tag.substr(propertySplitIdx+1).trim(); 
+		return {
+			property: property,
+			val: val
+		};
+	}
+
+	return null;
+}
+/* TUTU
+var splitTag = splitPropertyTag(globalStory.globalTags[0]) // tutu
+var story = globalStory
+var choice = story.currentChoices[1]
+
+choice.index
+choice.text
+
+story.ChooseChoiceIndex(0)
+var tags = story.currentTags;
+var paragraphText = story.Continue();
+story.canContinue
+//var paragraphText = "se vale a pena enfrentá-lo por um ladrãozinho como aquele."
+
+
+story.continueStory();
+
+*/
 (function(storyContent) {
 
     // Create ink story from the content using inkjs
     var story = new inkjs.Story(storyContent);
+	globalStory = story;
 
     // Global tags - those at the top of the ink file
     // We support:
